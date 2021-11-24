@@ -1,7 +1,7 @@
 <?php
 
 // Conexión a la BBDD
-$db_host = "macbook-pro-de-elena.local";
+$db_host = "localhost";
 $db_name = "producto_2";
 $db_user = "root";
 $db_pass = "";
